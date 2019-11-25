@@ -41,7 +41,7 @@ const Stream = (props) => {
 
     return (
         <div>
-            <Title>
+            <Title align='center'>
                 Streams for {name}
             </Title>
             <GridContainer>

@@ -43,7 +43,7 @@ const Game = () => {
 
     return (
         <div>
-            <Title>
+            <Title align='center'>
                 Most Popular Games
             </Title>
             <GridContainer>
